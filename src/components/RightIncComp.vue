@@ -18,7 +18,7 @@ export default {
     data(){
         return {
             maps:[],
-            desc:'浙江林飞网络科技有限公司 版权所有 Copyright©2017-2023 浙新广[2017]635号 新广初审[2017]4968号'
+            desc:'金华畅游企业管理咨询有限公司 版权所有 Copyright©2017-2023 新广初审[2017]'
         }
     },
     mounted(){

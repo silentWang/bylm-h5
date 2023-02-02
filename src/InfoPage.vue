@@ -2,8 +2,7 @@
     <div class="ip_main">
         <div class="ip_title">赶快联系我们领取福利吧</div>
         <img class="ip_image" src="./assets/logo.png" @click="download">
-        <div>微信客服:nbmjg002</div>
-        <div>公众号:bylm3d</div>
+        <div>微信客服:zzhsmj888</div>
     </div>
 </template>
 <script>

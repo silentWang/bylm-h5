@@ -13,12 +13,12 @@
                     <div>{{desc}}</div>
                 </div>
             </div>
-            <a :href="dowloadAppUrl" class="downbtn"></a>
+            <!-- <a :href="dowloadAppUrl" class="downbtn"></a> -->
         </div>
-        <div class="home_qrcode">
+        <!-- <div class="home_qrcode">
             <img src="./assets/imgvcode.png">
             <div>{{downDesc}}</div>
-        </div>
+        </div> -->
         <router-view></router-view>
         <right-inc-comp></right-inc-comp>
     </div>
